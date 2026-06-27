@@ -1,3 +1,15 @@
+<div align="center">
+
+# Hi 👋, I'm Saksham Parashar
+
+### Third Year Computer Science Undergraduate @ HBTU Kanpur
+
+💻 Full-Stack Development • 🚀 Software Engineering • 🧩 Data Structures & Algorithms
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+modern+web+applications.;Learning+Full-Stack+Development.;Practicing+Data+Structures+%26+Algorithms.;Currently+exploring+Node.js+and+Backend+Development.;Always+learning.+Always+building.;Open+to+internship+opportunities."/>
+
+</div>
+
 # 💫 About Me: 
 I'm a third-year Computer Science undergraduate at Harcourt Butler Technical University (HBTU), Kanpur, with a strong interest in **Full-Stack Development**, **Software Engineering**, and **problem solving**. I enjoy building modern web applications that are clean, scalable, and designed to deliver a great user experience while continuously expanding my knowledge across the entire development stack.<br><br>🚀 What I'm Working On<br><br>• Building modern web applications using **React, JavaScript, Tailwind CSS, and Vite**.<br>• Expanding my backend development skills with **Node.js** to become a well-rounded Full-Stack Developer.<br>• Strengthening my problem-solving abilities through **Data Structures & Algorithms** in C++.<br>• Following clean code practices, reusable component architecture, and Git-based development workflows.<br><br>🌱 My Goal<br><br>I enjoy taking ideas from concept to implementation, learning new technologies through hands-on projects, and continuously improving as a developer. My goal is to become a skilled Full-Stack Software Engineer who builds impactful products, contributes to meaningful projects, and grows alongside experienced engineering teams.<br><br>🤝 Looking For<br><br>I'm currently seeking  internship opportunities where I can learn, collaborate, and contribute to building high-quality software.<br><br>
 
